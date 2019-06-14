@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-14T03:21:44.227370100Z</date>
+  <millis>1560482504227</millis>
+  <nanos>370100</nanos>
+  <sequence>0</sequence>
+  <logger>Logging</logger>
+  <level>INFO</level>
+  <class>Logging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java.lang.ArithmeticException: / by zero</message>
+</record>
+</log>

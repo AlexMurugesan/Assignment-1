@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-14T03:34:03.038179300Z</date>
+  <millis>1560483243038</millis>
+  <nanos>179300</nanos>
+  <sequence>0</sequence>
+  <logger>Logging</logger>
+  <level>INFO</level>
+  <class>Logging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java.io.FileNotFoundException: C:\Users\alex.pandian\eclipse-workspace\ExceptionHandling\file1.txt (The system cannot find the file specified)</message>
+</record>
+</log>

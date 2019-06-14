@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-06-14T03:22:03.674919400Z</date>
+  <millis>1560482523674</millis>
+  <nanos>919400</nanos>
+  <sequence>0</sequence>
+  <logger>Logging</logger>
+  <level>INFO</level>
+  <class>Logging</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>java.lang.ArrayIndexOutOfBoundsException: Index 5 out of bounds for length 5</message>
+</record>
+</log>
